@@ -1,0 +1,37 @@
+
+.label {
+    position:relative;
+    display: flex;
+    justify-content: center;
+}
+
+#rizz {
+    position: relative;
+    top: 37vh;
+    color:#000;
+}
+
+
+#clicker:hover {
+    font-size: 40px;
+}
+
+#clicker {
+    font-size:35px;
+    font-family: 'Roblox Font 121 Regular';
+    border-radius: 15px;
+    padding: 20px;
+    border-width: 10px;
+    border-color:#000;
+    border-style:solid;
+
+}
+.center {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
