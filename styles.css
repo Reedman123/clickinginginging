@@ -1,9 +1,6 @@
 @font-face {
     font-family: 'Roblox';
-    src: url('fonts/font121.ttf');
-    font-weight: normal;
-    font-style: normal;
-    font-display:swap;
+    src: url(fonts/font121.ttf) format('truetype');
 }
 
 .label {
